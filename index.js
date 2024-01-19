@@ -101,6 +101,7 @@ function subtract(x, y) {
 console.log(); // do 3 times 10 divided by 2 and subtracted by 9 with just the given function, you can't use math operator like (*), (/), or (-)
 // so the result are same like (3 * 10 / 2) - 9
 
+
 //* 7. SELF-INVOKING
 // invoke the function below using self-invoking, so you cannot use it like the example : invokeMe()
 function invokeMe() {
